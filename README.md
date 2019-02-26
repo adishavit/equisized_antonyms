@@ -11,3 +11,4 @@ A helpful list of antonyms with the same word length for your everyday variable 
 - up/dn
 - pred/succ
 - accept/reject
+- head/tail
