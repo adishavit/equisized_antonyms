@@ -12,6 +12,7 @@ A helpful list of antonyms with the same word length for your everyday variable 
 - pred/succ
 - accept/reject
 - head/tail
+- relative/absolute
 
 ### Inspiration
 Several [Twitter](https://twitter.com/fulhack/status/863496853190582272) [threads](https://twitter.com/kikko_fr/status/505301200980672512).  
