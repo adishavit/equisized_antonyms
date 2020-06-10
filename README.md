@@ -15,10 +15,10 @@ A helpful list of antonyms with the same word length for your everyday variable 
 - `fix`/`var`
 - `head`/`tail`
 - `pred`/`succ`
+- `prev`/`curr`/`next`²
 - `large`/`small`
 - `accept`/`reject`
 - `source`/`target`
-- `prev`/`curr`/`next`²
 - `relative`/`absolute`
 
 ⁰ C++ keyword, cannot be used as an identifier  
