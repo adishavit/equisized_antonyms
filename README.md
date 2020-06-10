@@ -3,10 +3,16 @@ A helpful list of antonyms with the same word length for your everyday variable 
 
 - `lo`/`hi`
 - `up`/`dn`
+- `rd`/`wr`
 - `beg`/`end`
 - `src`/`dst`
 - `top`/`bot`
 - `get`/`set`
+- `old`/`new`
+- `min`/`max`
+- `new`/`del`
+- `add`/`del`
+- `fix`/`var`
 - `head`/`tail`
 - `pred`/`succ`
 - `large`/`small`
