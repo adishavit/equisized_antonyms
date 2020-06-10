@@ -1,25 +1,28 @@
 # Equal Sized Antonyms
 A helpful list of antonyms with the same word length for your everyday variable names:
 
-- `lo`/`hi`
-- `up`/`dn`
-- `rd`/`wr`
-- `beg`/`end`
-- `src`/`dst`
-- `top`/`bot`
-- `get`/`set`
-- `old`/`new`
-- `min`/`max`
-- `new`/`del`
-- `add`/`del`
-- `fix`/`var`
-- `head`/`tail`
-- `pred`/`succ`
-- `large`/`small`
-- `accept`/`reject`
-- `source`/`target`
-- `prev`/`curr`/`next`
-- `relative`/`absolute`
+| Antonyms              | C++             | Python                    |
+|-----------------------|-----------------|---------------------------|
+| `lo`/`hi`             | ✔               | ✔                         |
+| `up`/`dn`             | ✔               | ✔                         |
+| `rd`/`wr`             | ✔               | ✔                         |
+| `beg`/`end`           | ✔               | ✔                         |
+| `src`/`dst`           | ✔               | ✔                         |
+| `top`/`bot`           | ✔               | ✔                         |
+| `get`/`set`           | ✔               | ✔                         |
+| `old`/`new`           | ❌ Keyword `new` | ✔                         |
+| `min`/`max`           | ✔               | ❌ Builtin `min` and `max` |
+| `new`/`del`           | ❌ Keyword `new` | ❌ Keyword `del`           |
+| `add`/`del`           | ✔               | ❌ Keyword `del`           |
+| `fix`/`var`           | ✔               | ✔                         |
+| `head`/`tail`         | ✔               | ✔                         |
+| `pred`/`succ`         | ✔               | ✔                         |
+| `large`/`small`       | ✔               | ✔                         |
+| `accept`/`reject`     | ✔               | ✔                         |
+| `source`/`target`     | ✔               | ✔                         |
+| `prev`/`curr`/`next`  | ✔               | ❌ Builtin `next`          |
+| `relative`/`absolute` | ✔               | ✔                         |
+
 
 ## Equisized Non-Antonyms
 
