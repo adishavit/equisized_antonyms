@@ -8,18 +8,23 @@ A helpful list of antonyms with the same word length for your everyday variable 
 - `src`/`dst`
 - `top`/`bot`
 - `get`/`set`
-- `old`/`new`
-- `min`/`max`
-- `new`/`del`
-- `add`/`del`
+- `old`/`new`⁰
+- `min`/`max`²
+- `new`/`del`¹⁰
+- `add`/`del`¹
 - `fix`/`var`
 - `head`/`tail`
 - `pred`/`succ`
 - `large`/`small`
 - `accept`/`reject`
 - `source`/`target`
-- `prev`/`curr`/`next`
+- `prev`/`curr`/`next`²
 - `relative`/`absolute`
+
+⁰ C++ keyword, cannot be used as an identifier  
+¹ Python keyword, cannot be used as an identifier  
+² Python builtin, should not be used as an unqualified identifier, but ok as member
+
 
 ## Equisized Non-Antonyms
 
