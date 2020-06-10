@@ -6,7 +6,7 @@ A helpful list of antonyms with the same word length for your everyday variable 
 - `beg`/`end`
 - `src`/`dst`
 - `top`/`bot`
-- `get`/`set`; also `gen` for generate
+- `get`/`set`
 - `head`/`tail`
 - `pred`/`succ`
 - `large`/`small`
@@ -15,8 +15,9 @@ A helpful list of antonyms with the same word length for your everyday variable 
 - `prev`/`curr`/`next`
 - `relative`/`absolute`
 
-## Partially Matched Pairs
+## Equisized Non-Antonyms
 
+- `get`/`got`/`gen` (`gen` for generate)
 - `width`/`depth`
 - `length`/`height`
 
