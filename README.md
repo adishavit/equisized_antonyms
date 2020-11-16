@@ -23,6 +23,7 @@ A helpful list of antonyms with the same word length for your everyday variable 
 - `prev`/`curr`/`next`²
 - `push`/`pull`
 - `this`/`that`⁰
+- `true`/`fake`
 - `yeah`/`nope`
 - `east`/`west`
 - `north`/`south`
