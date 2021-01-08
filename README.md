@@ -37,6 +37,7 @@ A helpful list of antonyms with the same word length for your everyday variable 
 - `unique`/`shared`
 - `relative`/`absolute`
 - `producer`/`consumer`
+- `permanent`/`temporary`
 
 ⁰ C++ keyword, cannot be used as an identifier  
 ¹ Python keyword, cannot be used as an identifier  
