@@ -10,7 +10,7 @@ A helpful list of antonyms with the same word length for your everyday variable 
 - `top`/`mid`/`bot`
 - `get`/`set`
 - `old`/`new`⁰
-- `min`/`max`²
+- `min`/`mid`/`max`²
 - `new`/`del`¹⁰
 - `add`/`del`¹
 - `fix`/`var`
