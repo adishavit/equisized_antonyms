@@ -30,7 +30,9 @@ A helpful list of antonyms with the same word length for your everyday variable 
 - `start`/`pause`/`break`⁰
 - `large`/`small`
 - `lower`/`upper`
+- `allow`/`block`
 - `accept`/`reject`
+- `permit`/`refuse`
 - `create`/`delete`⁰
 - `insert`/`remove`
 - `source`/`target`
