@@ -26,6 +26,7 @@ A helpful list of antonyms with the same word length for your everyday variable 
 - `true`/`fake`
 - `yeah`/`nope`
 - `east`/`west`
+- `below`/`above`
 - `north`/`south`
 - `start`/`pause`/`break`⁰
 - `large`/`small`
