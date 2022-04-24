@@ -29,6 +29,7 @@ A helpful list of antonyms with the same word length for your everyday variable 
 - `below`/`above`
 - `north`/`south`
 - `start`/`pause`/`break`⁰
+- `sugar`/`spice`
 - `large`/`small`
 - `lower`/`upper`
 - `allow`/`block`
@@ -45,8 +46,8 @@ A helpful list of antonyms with the same word length for your everyday variable 
 - `positive`/`negative`
 - `permanent`/`temporary`
 
-⁰ C++ keyword, cannot be used as an identifier  
-¹ Python keyword, cannot be used as an identifier  
+⁰ C++ keyword, cannot be used as an identifier
+¹ Python keyword, cannot be used as an identifier
 ² Python builtin, should not be used as an unqualified identifier, but ok as member
 
 
@@ -61,4 +62,4 @@ A helpful list of antonyms with the same word length for your everyday variable 
 - `this->`/`other.`
 
 ### Inspiration
-Several [[Twitter](https://twitter.com/fulhack/status/863496853190582272)] [[threads](https://twitter.com/kikko_fr/status/505301200980672512)] [[1](https://twitter.com/AdiShavit/status/1270615387567202305?s=20)].  
+Several [[Twitter](https://twitter.com/fulhack/status/863496853190582272)] [[threads](https://twitter.com/kikko_fr/status/505301200980672512)] [[1](https://twitter.com/AdiShavit/status/1270615387567202305?s=20)].
