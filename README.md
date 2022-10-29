@@ -16,6 +16,7 @@ A helpful list of antonyms with the same word length for your everyday variable 
 - `fix`/`var`
 - `one`/`any`/`all`/`non`/`nil`
 - `yay`/`nay`
+- `give`/`take`
 - `head`/`tail`
 - `less`/`more`
 - `play`/`stop`
@@ -34,6 +35,7 @@ A helpful list of antonyms with the same word length for your everyday variable 
 - `lower`/`upper`
 - `allow`/`block`
 - `inner`/`outer`
+- `include`/`exclude`
 - `accept`/`reject`
 - `permit`/`refuse`
 - `create`/`delete`⁰
