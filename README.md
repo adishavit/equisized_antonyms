@@ -24,7 +24,7 @@ A helpful list of antonyms with the same word length for your everyday variable 
 - `prev`/`curr`/`next`²
 - `push`/`pull`
 - `this`/`that`⁰
-- `true`/`fake`
+- `true`/`fake`⁰
 - `yeah`/`nope`
 - `east`/`west`
 - `below`/`above`
@@ -47,9 +47,9 @@ A helpful list of antonyms with the same word length for your everyday variable 
 - `positive`/`negative`
 - `permanent`/`temporary`
 
-⁰ C++ keyword, cannot be used as an identifier
-¹ Python keyword, cannot be used as an identifier
-² Python builtin, should not be used as an unqualified identifier, but ok as member
+⁰ C++ keyword, cannot be used as an identifier  
+¹ Python keyword, cannot be used as an identifier  
+² Python builtin, should not be used as an unqualified identifier, but ok as member  
 
 
 ## Equisized Non-Antonyms
