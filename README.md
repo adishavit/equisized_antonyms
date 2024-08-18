@@ -38,6 +38,8 @@ A helpful list of antonyms with the same word length for your everyday variable 
 - `include`/`exclude`
 - `accept`/`reject`
 - `permit`/`refuse`
+- `permit`/`forbid`
+- `permitted`/`forbidden`
 - `create`/`insert`/`remove`/`delete`⁰
 - `encode`/`decode`/`verify`
 - `source`/`target`
