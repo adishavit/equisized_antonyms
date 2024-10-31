@@ -5,6 +5,7 @@ A helpful list of antonyms with the same word length for your everyday variable 
 - `up`/`dn`
 - `rd`/`wr`
 - `beg`/`end`
+- `bid`/`ask`
 - `lhs`/`rhs` *(left/right hand side)*
 - `src`/`dst`
 - `top`/`mid`/`bot`
@@ -44,6 +45,7 @@ A helpful list of antonyms with the same word length for your everyday variable 
 - `encode`/`decode`/`verify`
 - `source`/`target`
 - `unique`/`shared`
+- `primary`/`counter`
 - `relative`/`absolute`
 - `producer`/`consumer`
 - `positive`/`negative`
