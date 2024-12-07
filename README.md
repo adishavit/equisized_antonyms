@@ -49,6 +49,7 @@ A helpful list of antonyms with the same word length for your everyday variable 
 - `relative`/`absolute`
 - `producer`/`consumer`
 - `positive`/`negative`
+- `increment`/`decrement`
 - `permanent`/`temporary`
 
 ⁰ C++ keyword, cannot be used as an identifier  
