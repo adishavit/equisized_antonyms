@@ -30,6 +30,7 @@ A helpful list of antonyms with the same word length for your everyday variable 
 - `yeah`/`nope`
 - `east`/`west`
 - `below`/`above`
+- `fresh`/`stale`
 - `north`/`south`
 - `start`/`pause`/`break`⁰
 - `sugar`/`spice`
