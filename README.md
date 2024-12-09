@@ -6,6 +6,7 @@ A helpful list of antonyms with the same word length for your everyday variable 
 - `rd`/`wr`
 - `beg`/`end`
 - `bid`/`ask`
+- `fst`/`snd`/`lst` *(first/second/last)*
 - `lhs`/`rhs` *(left/right hand side)*
 - `src`/`dst`
 - `top`/`mid`/`bot`
