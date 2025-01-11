@@ -30,6 +30,7 @@ A helpful list of antonyms with the same word length for your everyday variable 
 - `yeah`/`nope`
 - `east`/`west`
 - `below`/`above`
+- `Bible`/`Koran`/`Torah`
 - `fresh`/`stale`
 - `north`/`south`
 - `start`/`pause`/`break`⁰
@@ -38,7 +39,6 @@ A helpful list of antonyms with the same word length for your everyday variable 
 - `lower`/`upper`
 - `allow`/`block`
 - `inner`/`outer`
-- `include`/`exclude`
 - `accept`/`reject`
 - `permit`/`refuse`
 - `permit`/`forbid`
@@ -47,7 +47,11 @@ A helpful list of antonyms with the same word length for your everyday variable 
 - `encode`/`decode`/`verify`
 - `source`/`target`
 - `unique`/`shared`
+- `antonym`/`synonym`
+- `diverse`/`uniform`
+- `include`/`exclude`
 - `primary`/`counter`
+- `donation`/`thievery`
 - `relative`/`absolute`
 - `producer`/`consumer`
 - `positive`/`negative`
