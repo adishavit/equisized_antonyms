@@ -47,6 +47,7 @@ A helpful list of antonyms with the same word length for your everyday variable 
 - `encode`/`decode`/`verify`
 - `source`/`target`
 - `unique`/`shared`
+- `acquire`/`release`
 - `antonym`/`synonym`
 - `diverse`/`uniform`
 - `include`/`exclude`
